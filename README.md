@@ -1,7 +1,7 @@
 # Forecast_TimeSeries
- Project about applying different kind of forecast models
+ Project involves applying different kind of forecasting models
 
- This project tries to summarize some forecast model such as :
+ This project aims to summarize some forecast models, such as :
 
  - LSTM (Long-Short Term Memory)
  - GRU (Gated Recurrent Unit)
@@ -9,6 +9,6 @@
  - CNN (Convolutional Neuronal Network)
  - MLP (Multi-Layer Perceptron)
 
- At the end, a brief comparition between models.
+ It the end, there will be a brief comparison between models.
 
- Note: I have been working on updating libraries and function, however I devoloped it long time ago.
+ Note: I have been working on updating libraries and function; however, I devoloped this project a long time ago.
