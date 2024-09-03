@@ -1,4 +1,6 @@
 # Forecast_TimeSeries
+<img src="data\Week2_Diego.jpg">
+
  Project involves applying different kind of forecasting models
 
  This project aims to summarize some forecast models, such as :
