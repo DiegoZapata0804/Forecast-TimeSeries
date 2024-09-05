@@ -1,5 +1,5 @@
-# Forecast_TimeSeries
-<img src="data\Week2_Diego.jpg">
+# Forecast Time Series
+<img src="data\BostonCity_ExploratoryAnalysis.jpg">
 
  Project involves applying different kind of forecasting models
 
